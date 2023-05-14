@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Information Technology Student
 ------------------------------
 
-I've been coding since I was 13 and I have created multiple projects for school as well as personal projects such as websites, applications and games!
+Hi Github! I'm Laraib and I'm an aspiring AI engineer! I've been coding since I was 13 (so that's around 7 years?!). My interests lie in Artificial Intelligence, Robotics, Virtual Reality, Game Devlopment and Programming! Talk to me about my interests! If I'm not coding, I'm rewatching the Star Wars movies for the 100th time!
 
 * 🌍  I'm based in Dubai
 * ✉️  You can contact me at [laraibsyed92@gmail.com](mailto:laraibsyed92@gmail.com)
