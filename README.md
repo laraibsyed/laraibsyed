@@ -8,6 +8,7 @@ Hi Github! I'm Laraib and I'm an aspiring AI engineer! I've been coding since I 
 
 * 🌍  I'm based in Dubai
 * ✉️  You can contact me at [laraibsyed92@gmail.com](mailto:laraibsyed92@gmail.com)
+* 🌐  Check out my portfolio here: https://laraibsyed.github.io/
 * 🧠  I'm learning Unity3D and C#
 * 🤝  I'm open to collaborating on websites or softwares
 * ⚡  Ask me about Star Wars or Marvel!
