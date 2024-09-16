@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Scientist
 ------------------------------
 
-Hi Github! I'm Laraib and I'm an aspiring AI engineer! I've been coding since I was 13 (so that's around 9 years?!). My interests lie in Data Science, Artificial Intelligence, Robotics, Virtual Reality, Game Devlopment and Programming! Talk to me about my interests! If I'm not coding, I'm rewatching the Star Wars movies for the 100th time!
+Hi Github! I'm Laraib and I'm an aspiring Data Scientist! I've been coding since I was 13 (so that's around 9 years?!). My interests lie in Data Science, Artificial Intelligence, Robotics, Virtual Reality, Game Devlopment and Programming! Talk to me about my interests! If I'm not coding, I'm rewatching the Star Wars movies for the 100th time!
 
 * 🌍  I'm based in Dubai
 * ✉️  You can contact me at [laraibsyed92@gmail.com](mailto:laraibsyed92@gmail.com)
