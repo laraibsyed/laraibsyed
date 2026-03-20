@@ -6,7 +6,7 @@
 
 *Turning messy data into decisions that matter — and occasionally rewatching Star Wars* 🚀
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-laraibsyed.github.io-0A66C2?style=for-the-badge&logo=githubpages&logoColor=white)](https://laraibsyed.github.io/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-laraibsyed.github.io-0A66C2?style=for-the-badge&logo=githubpages&logoColor=white)](https://laraibsyed.github.io/Portfolio_Website/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-laraibsyed-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laraibsyed/)
 [![Email](https://img.shields.io/badge/Email-laraibsyed92@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:laraibsyed92@gmail.com)
 
