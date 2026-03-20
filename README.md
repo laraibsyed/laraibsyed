@@ -1,42 +1,104 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Laraib!
-===================================================================================================================================
+<div align="center">
 
-Data Scientist
-------------------------------
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Laraib+%F0%9F%91%8B;Data+Scientist+%7C+AI+Engineer;Building+Intelligent+Systems" />
 
-Hi Github! I'm Laraib and I'm an aspiring Data Scientist! I've been coding since I was 13 (so that's around 9 years?!). My interests lie in Data Science, Artificial Intelligence, Robotics, Virtual Reality, Game Devlopment and Programming! Talk to me about my interests! If I'm not coding, I'm rewatching the Star Wars movies for the 100th time!
+**MSc Data Science & AI · Based in Dubai 🇦🇪**
 
-* 🌍  I'm based in Dubai
-* ✉️  You can contact me at [laraibsyed92@gmail.com](mailto:laraibsyed92@gmail.com)
-* 🌐  Check out my portfolio here: https://laraibsyed.github.io/
-* 🧠  I'm learning Data Science by IBM
-* 🤝  I'm open to collaborating on data science prokects
-* ⚡  Ask me about Star Wars or Marvel!
+*Turning messy data into decisions that matter — and occasionally rewatching Star Wars* 🚀
 
-### Skills
+[![Portfolio](https://img.shields.io/badge/Portfolio-laraibsyed.github.io-0A66C2?style=for-the-badge&logo=githubpages&logoColor=white)](https://laraibsyed.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-laraibsyed-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laraibsyed/)
+[![Email](https://img.shields.io/badge/Email-laraibsyed92@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:laraibsyed92@gmail.com)
 
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+</div>
 
-### Connect with me!
+---
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laraibsyed)
+## 🧠 What I Do
 
+| | |
+|---|---|
+| 🤖 **Machine Learning** | Classification, Regression, Clustering |
+| 📊 **Data Analysis** | Insight generation from complex, real-world datasets |
+| 📈 **Visualisation** | Dashboards & interactive storytelling with data |
+| ⚙️ **AI Systems** | Decision intelligence & predictive modelling |
+
+---
+
+## 🚀 Featured Projects
+
+### 🏎️ AI Formula 1 Strategy Engineer *(Flagship · In Progress)*
+> *Real-time race strategy decisions, inspired by F1 race engineering*
+
+- Predictive models for race outcomes & pit-stop optimisation
+- Simulated race scenarios using historical + synthetic data
+- Real-time decision intelligence under uncertainty
+
+`Python` `Machine Learning` `Simulation Modelling`
+&nbsp;&nbsp;[→ View Project](https://github.com/laraibsyed/f1-race-engineer)
+
+---
+
+### 📊 Global NCD Data Analysis Dashboard
+> *Visualising non-communicable disease trends across the world*
+
+- Interactive dashboards tracking obesity, diabetes & blood pressure trends
+- Identified regional disparities and shifting global health patterns
+- Data transformation & normalisation for accurate cross-region comparison
+
+`Python` `Pandas` `Altair` `Data Visualisation`
+&nbsp;&nbsp;[→ View Project](https://github.com/laraibsyed/CW1_CST4245)
+
+---
+
+### 🏡 Airbnb Listing Classification Model
+> *Predicting listing performance for high vs. low-value properties*
+
+- Classification models trained on price, location, reviews & availability
+- Feature engineering to extract meaningful signals from raw listing data
+- Multi-model comparison to find the best-performing approach
+
+`Python` `Pandas` `scikit-learn` `Machine Learning`
+&nbsp;&nbsp;[→ View Project](https://github.com/laraibsyed/Airbnb-Classification)
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat-square&logo=postgresql&logoColor=white)
+
+**ML & Data Science**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras)
+![XGBoost](https://img.shields.io/badge/XGBoost-AA4A44?style=flat-square)
+
+**Visualisation & Tools**
+
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=PowerBI)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv)
+
+---
+
+## 🤝 Open to Collaborating On
+
+```
+✦ Data Science projects
+✦ AI-driven intelligent systems  
+✦ Real-world analytics & optimisation problems
+```
+
+> *Feel free to reach out — always happy to connect!*
